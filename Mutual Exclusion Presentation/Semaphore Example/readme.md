@@ -1,6 +1,10 @@
 Problem Description: http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf
 Program Solution: https://github.com/EvanPurkhiser/CS-SmokersProblem/blob/master/smoke.c
 
+Compile: gcc -std=gnu99 -Wall -pedantic -pthread main.c -o smoke
+Execute: ./smoke
+
+
 
 4.5 Cigarette smokers problem
 The cigarette smokers problem problem was originally presented by Suhas Patil
