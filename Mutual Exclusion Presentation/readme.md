@@ -1,7 +1,6 @@
 Semaphore: Smoker Problem
 
-Monitor:
-https://www.geeksforgeeks.org/operating-system-reader-writers-solution-using-monitors/
+Monitor: https://github.com/zahillmtu/cs3331-prog5
 
 Mailbox: Temperature problem
 
