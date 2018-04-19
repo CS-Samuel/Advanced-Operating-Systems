@@ -1,11 +1,9 @@
-Semaphore:
-https://pages.mtu.edu/~shene/NSF-3/e-Book/SEMA/TM-example-roller.html
+Semaphore: Smoker Problem
 
 Monitor:
 https://www.geeksforgeeks.org/operating-system-reader-writers-solution-using-monitors/
 
-Mailbox:
-https://macboypro.wordpress.com/2009/05/15/posix-message-passing-in-linux/
+Mailbox: Temperature problem
 
 
 Describe the problem you are solving,
