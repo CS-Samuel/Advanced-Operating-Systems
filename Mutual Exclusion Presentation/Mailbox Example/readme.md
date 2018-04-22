@@ -3,8 +3,8 @@ Source:https://macboypro.wordpress.com/2009/05/15/posix-message-passing-in-linux
 
 
 Compile Commands:
-gcc -o external.c external.out
-gcc -o central.c central.out
+gcc -o external.out external.c
+gcc -o central.out central.c
 
 Run each process in a separate terminal like so:
 
