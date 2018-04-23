@@ -1,3 +1,14 @@
+// Abdel Aitroua, Matthew Schenk, Samuel Weems
+// Compile: gcc -o "NEW NAME" "FILE.C"
+// Execute: 
+//Run each process in a separate terminal like so:
+//./external.out 100 1
+//./external.out 22 2
+//./external.out 50 3
+//./external.out 40 4
+//./central.out 60
+
+
 #include <sys/ipc.h>
 #include <sys/types.h>
 #include <sys/msg.h>
