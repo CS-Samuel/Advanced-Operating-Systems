@@ -1,4 +1,6 @@
-
+// Abdel Aitroua, Matthew Schenk, Samuel Weems
+// Compile: javac *.java
+// Execute: java Main
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
