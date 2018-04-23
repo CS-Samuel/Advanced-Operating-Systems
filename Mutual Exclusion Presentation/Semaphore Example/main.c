@@ -1,3 +1,8 @@
+// Abdel Aitroua, Matthew Schenk, Samuel Weems
+// Compile: gcc -std=gnu99 -Wall -pedantic -pthread main.c -o smoke 
+// Execute: ./smoke
+
+
 #include <pthread.h>
 #include <semaphore.h>
 #include <stdbool.h>
